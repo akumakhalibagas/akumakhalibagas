@@ -7,6 +7,7 @@
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please [Email](mailto:makhalibagas1@gmail.com) to reach me.
 - 📝 See my [Website](https://makhalibagas.me/) to get more info.
+- 📝 Please install my application on [Play Store](https://play.google.com/store/apps/dev?id=7665747635068935583)
 
 
 <img src="https://komarev.com/ghpvc/?username=akumakhalibagas&color=green&style=flat-square">
